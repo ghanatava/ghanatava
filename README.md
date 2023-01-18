@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ghanatava
-- 👀 I’m interested in cybersecurity , dev-sec-ops,networking.
+- 👀 I’m interested in containers and dev-secops 
 - 🌱 I’m currently learning fundamentals of kubernetes,javaand docker.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email:ghanatva@gmail.com
