@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I am Ghanatava Vashu Thakaran</h1>
 <h3 align="center">I am a student learning about python,django and Devops</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghanatava" alt="ghanatava" /></a> </p>
-
 - 📫 How to reach me [ghanatva@gmail.com](ghanatva@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
