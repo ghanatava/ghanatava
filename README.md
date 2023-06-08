@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Ghanatava Vashu Thakaran</h1>
-<h3 align="center">I am a student learning about python,django and Devops</h3>
+<h3 align="center">I am a student learning about python,django and Backend Engineering</h3>
 
 - 📫 How to reach me [ghanatva@gmail.com](ghanatva@gmail.com)
 
