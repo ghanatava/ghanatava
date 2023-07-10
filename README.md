@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Ghanatava Vashu Thakaran</h1>
-<h3 align="center">I am a student learning about python,django and Backend Engineering</h3>
-
+<h3 align="center">I am a student learning about Computers and Engineering.</h3>
+<h3>I am interested Devops,Backend Systems and core computer science.</h3>
 - 📫 How to reach me [ghanatva@gmail.com](ghanatva@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
