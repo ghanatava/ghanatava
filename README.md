@@ -20,8 +20,9 @@
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/O7b5erkV_tUhuBezMt0GU275j9zLtz6bwa-4vCxK340/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9hd3MtMi5zdmc.svg" alt="aws" width="40" height="40"/> </a>
 </p>
 
-<p>![Ghanatava's github stats](https://github-readme-stats.vercel.app/api?username=ghanatava) </p>
-
+1
+2
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ghanatava&count_private=true&theme=tokyonight&showicons=true)]()
 
 
 
