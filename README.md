@@ -7,6 +7,7 @@
 <p align="left">
 <a href="https://twitter.com/gthakaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gthakaran" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ghanatava-thakaran-757941246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghanatava-thakaran-757941246" height="30" width="40" /></a>
+<a href="https://ghanatava.hashnode.dev" target="blank"><img align="center" src="https://imgs.search.brave.com/Oq7Buf2WJ_m56ht5kUlWtH0U8cWYpLxboDnkcBxgpEY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8w/LzA2L0hhc2hub2Rl/X2ljb24uc3Zn.svg" alt="ghanatava.hashnode.dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
