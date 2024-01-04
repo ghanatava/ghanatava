@@ -21,8 +21,13 @@
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghanatava" alt="ghanatava" /></a> </p>
-1
-2
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghanatava&show_icons=true&locale=en&layout=compact" alt="ghanatava" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghanatava&show_icons=true&locale=en" alt="ghanatava" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghanatava&" alt="ghanatava" /></p>
+
 <!--[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ghanatava&count_private=true&theme=tokyonight&showicons=true)]()-->
 
 
