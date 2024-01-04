@@ -2,7 +2,6 @@
 <h3 align="center">I am a student learning about Computers and Engineering.</h3>
 <h3>I am interested Devops,Backend Systems and core computer science.</h3>
 - 📫 How to reach me **ghanatva@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gthakaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gthakaran" height="30" width="40" /></a>
