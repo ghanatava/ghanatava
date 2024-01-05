@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I am Ghanatava Vashu Thakaran</h1>
 <h3 align="center">I am a student learning about Computers and Engineering.</h3>
 <h3>I am interested Devops,Backend Systems and core computer science.</h3>
-- 📫 How to reach me [ghanatva@gmail.com]
-
+<p>-📫 How to reach me : <a href="mailto:ghanatva@gmail.com">ghanatva@gmail.com</a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gthakaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gthakaran" height="30" width="40" /></a>
@@ -20,8 +19,14 @@
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/O7b5erkV_tUhuBezMt0GU275j9zLtz6bwa-4vCxK340/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9hd3MtMi5zdmc.svg" alt="aws" width="40" height="40"/> </a>
 </p>
 
-1
-2
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghanatava" alt="ghanatava" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghanatava&show_icons=true&locale=en&layout=compact" alt="ghanatava" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghanatava&show_icons=true&locale=en" alt="ghanatava" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghanatava&" alt="ghanatava" /></p>
+
 <!--[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ghanatava&count_private=true&theme=tokyonight&showicons=true)]()-->
 
 
